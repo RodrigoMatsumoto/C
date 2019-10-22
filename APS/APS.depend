@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1571705968 source:c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571703603 c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\banco.h
+	"conta.h"
+
+1571352406 c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\conta.h
+	"cliente.h"
+
+1571352253 c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\cliente.h
+
+1571355173 source:c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\banco.c
+	"banco.h"
+
+1571706064 source:c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\gerenciaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"gerenciaClientes.h"
+
+1571702831 source:c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\conta.c
+	"conta.h"
+
+1571704454 source:c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\cliente.c
+	"cliente.h"
+
+1571705141 c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\gerenciaclientes.h
+	"cliente.h"
+
+1571702997 c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\cliente.c
+	"cliente.h"
+
+1571702831 c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\conta.c
+	"conta.h"
+
+1571702852 c:\users\rodrigo\documents\uam\02-19 técnicas de programação\aps\gerenciaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"gerenciaClientes.h"
+
